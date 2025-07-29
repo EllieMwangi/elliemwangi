@@ -6,6 +6,39 @@ I'm a data engineer who enjoys building systems that make data easier to collect
 🔭 **Working on**: A lead scraping tool using Loveable AI 💗, OpenAI 🧠, and ScrapingAnt API 🐜  
 ⚡ **Fun fact**: I’m mildly obsessed with puzzle 🧩 and mystery 🕵️‍♀️ games on Steam
 
+### 💻 Featured Projects
+
+##### [Docker-Based Scrapers for LinkedIn and Facebook](https://github.com/EllieMwangi/social_media_scrapers)
+
+This repository contains Docker-based scrapers for Facebook and LinkedIn. These scrapers are designed to extract information from business profiles and pages for use in research, analysis, or lead generation. By containerizing the setup with Docker, the tools are easy to deploy, consistent across environments, and require minimal configuration.
+
+🛠️ **Technologies used**: Python, Docker, Selenium, BeautifulSoup, Azure  
+🎯 **Skills demonstrated**: Web scraping, containerization, automation, cloud deployment
+
+You can check out the repository [here](https://github.com/EllieMwangi/social_media_scrapers).
+##### [Finscope Survey Response Analysis on Bank Access](https://github.com/EllieMwangi/Bank-Access-Analysis)
+
+This project analyzes financial inclusion across East African countries by identifying demographic factors that influence whether an individual has a bank account and building a predictive classification model.
+
+🌍 **Context**: Financial exclusion remains a barrier to economic growth in Africa. The project uses data from Finscope surveys (2016–2018) to assess access to bank accounts across Kenya, Rwanda, Tanzania, and Uganda.
+
+🔍 **Objectives**:
+- Identify key demographics influencing bank account ownership  
+- Build a binary classifier to predict access to bank accounts
+
+🧪 **Analysis Workflow**:
+- Exploratory data analysis: Univariate, bivariate, multivariate  
+- Hypothesis testing & feature selection  
+- Binary classification using demographic data  
+- Model tuning and evaluation
+
+🛠️ **Technologies used**: Python, Google Colab, Scikit-learn, Matplotlib, Seaborn  
+🎯 **Skills demonstrated**: Data analysis, statistical inference, classification modeling, storytelling with data
+
+You can view the repository [here](https://github.com/EllieMwangi/Bank-Access-Analysis).
+
+
+
 ### 🛠️ My Skills
 
 #### 🧪 Languages & Tools  
