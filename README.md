@@ -2,8 +2,8 @@
 
 I'm a data engineer who enjoys building systems that make data easier to collect, clean, and use. I’ve worked on everything from scraping tools 🕸️ to ETL pipelines 🚰 to NLP workflows 🧠 — and I like figuring out how to make things run smoothly behind the scenes. I work best in collaborative teams 🤝, ask good questions ❓, and try to keep things clear, thoughtful, and grounded in real use.
 
-🌱 **Currently learning**: Generative AI 🤖, Vibe Coding 🎧, and Agent Automation 🛠️  
-🔭 **Working on**: A lead scraping tool using Loveable AI 💗, OpenAI 🧠, and ScrapingAnt API 🐜  
+🌱 **Currently learning**: Supabase and Streamlit!  
+🔭 **Working on**: A rent monitoring tool that analyses scraped data of properties in Nairobi  
 ⚡ **Fun fact**: I’m mildly obsessed with puzzle 🧩 and mystery 🕵️‍♀️ games on Steam
 
 ### 💻 Featured Projects
