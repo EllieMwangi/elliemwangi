@@ -24,6 +24,7 @@ This project explores factors that influence a track's popularity on the Spotify
 - Model tuning and evaluation
 
 🛠️ **Technologies used**: Python, Sklearn, Matplotlib, XGBoost
+
 🎯 **Skills demonstrated**: Univariate & multivariate analysis, Regression analysis, cluster analysis, feature selection (PCA), hyperparameter tuning
 
 You can check out the repository [here](https://github.com/EllieMwangi/Track-popularity-prediction).
