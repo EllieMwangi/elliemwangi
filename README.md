@@ -1,21 +1,32 @@
 # Habari 👋 I'm Elena
 
-I'm a data engineer who enjoys building systems that make data easier to collect, clean, and use. I’ve worked on everything from scraping tools 🕸️ to ETL pipelines 🚰 to NLP workflows 🧠 — and I like figuring out how to make things run smoothly behind the scenes. I work best in collaborative teams 🤝, ask good questions ❓, and try to keep things clear, thoughtful, and grounded in real use.
+I'm a data professional who enjoys building systems that make data easier to collect, clean, and analyse. I’ve worked on everything from scraping tools 🕸️ to ETL pipelines 🚰 to NLP workflows 🧠 — and I like figuring out how to make things run smoothly behind the scenes. I work best in collaborative teams 🤝, ask good questions ❓, and try to keep things clear, thoughtful, and grounded in real use.
 
 🌱 **Currently learning**: Supabase and Streamlit!  
-🔭 **Working on**: A rent monitoring tool that analyses scraped data of properties in Nairobi  
+🔭 **Working on**: A rent monitoring tool that analyses scraped data of properties in Nairobi. Take a sneak peak [here](https://bomalens.streamlit.app)  
 ⚡ **Fun fact**: I’m mildly obsessed with puzzle 🧩 and mystery 🕵️‍♀️ games on Steam
 
 ### 💻 Featured Projects
 
-##### [Docker-Based Scrapers for LinkedIn and Facebook](https://github.com/EllieMwangi/social_media_scrapers)
+##### [Spotify Track Popularity Prediction](https://github.com/EllieMwangi/Track-popularity-prediction)
 
-This repository contains Docker-based scrapers for Facebook and LinkedIn. These scrapers are designed to extract information from business profiles and pages for use in research, analysis, or lead generation. By containerizing the setup with Docker, the tools are easy to deploy, consistent across environments, and require minimal configuration.
+This project explores factors that influence a track's popularity on the Spotify platform, builds a predictive model to identify popular tracks early on as well as segments tracks to identify emerging genres in music. 
 
-🛠️ **Technologies used**: Python, Docker, Selenium, BeautifulSoup, Azure  
-🎯 **Skills demonstrated**: Web scraping, containerization, automation, cloud deployment
+🔍 **Objectives**:
+- Build a track popularity prediction model. Model performance to measured using RMSE and R-squared scores
+- Identify clusters with clear boundaries in track data to detect emerging genres
 
-You can check out the repository [here](https://github.com/EllieMwangi/social_media_scrapers).
+🧪 **Analysis Workflow**:
+- Exploratory data analysis: Data exploration, cleaning, univariate and multivariate analysis
+- Feature Engineering and Selection
+- Cluster Analysis
+- Regression Analysis
+- Model tuning and evaluation
+
+🛠️ **Technologies used**: Python, Sklearn, Matplotlib, XGBoost
+🎯 **Skills demonstrated**: Univariate & multivariate analysis, Regression analysis, cluster analysis, feature selection (PCA), hyperparameter tuning
+
+You can check out the repository [here](https://github.com/EllieMwangi/Track-popularity-prediction).
 ##### [Finscope Survey Response Analysis on Bank Access](https://github.com/EllieMwangi/Bank-Access-Analysis)
 
 This project analyzes financial inclusion across East African countries by identifying demographic factors that influence whether an individual has a bank account and building a predictive classification model.
