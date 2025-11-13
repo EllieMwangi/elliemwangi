@@ -1,6 +1,6 @@
 # Habari 👋 I'm Elena
 
-I'm a data engineer who enjoys building systems that make data easier to collect, clean, and analyse. I’ve worked on everything from scraping tools 🕸️ to ETL pipelines 🚰 to NLP workflows 🧠 — and I like figuring out how to make things run smoothly behind the scenes. I work best in collaborative teams 🤝, ask good questions ❓, and try to keep things clear, thoughtful, and grounded in real use.
+I'm a data engineer who enjoys building systems that make data easier to collect, clean, and analyse. I’ve worked on everything from scraping tools to ETL pipelines to ML workflows. I like figuring out how to make things run smoothly behind the scenes. I work best in collaborative teams, strive to build resilient systems, and try to keep things clear, thoughtful, and grounded in real use.
 
 🌱 **Currently learning**: Supabase and Streamlit!  
 🔭 **Working on**: A rent monitoring tool that analyses scraped data of properties in Nairobi. Take a sneak peak [here](https://bomalens.streamlit.app)  
